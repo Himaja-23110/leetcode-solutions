@@ -8,3 +8,4 @@
 | 26    | Remove Duplicates from Sorted Array  | Two Pointers | O(n) | O(1)   
 | 344   | Remove Strings | Two Pointers | O(n) | O(1) |
 | 125   | Valid Palindrome | Two Pointers | O(n) | O(1) |
+| 88    | Merge Sorted Array | Two Pointers | O(n) | O(1) |
