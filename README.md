@@ -10,3 +10,4 @@
 | 125   | Valid Palindrome | Two Pointers | O(n) | O(1) |
 | 88    | Merge Sorted Array | Two Pointers | O(m + n) | O(1) |
 |917    | Reverse only letters |  Two Pointers | O(n)| O(n) |
+|28     | Find the Index of the First Occurrence in a String | Sliding window | O(m * n) | O(1)|
