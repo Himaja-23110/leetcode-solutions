@@ -13,4 +13,4 @@
 |28     | Find the Index of the First Occurrence in a String | Sliding window | O(m * n) | O(1)|
 | 238 | Product of Array Except Self | PrefiX Sum | O(n) | O(1) |
 |1732| Find the highest altitude | Prefix Sum | O(n) | O(1) |
-|485|Max Consecutive Ones|Array| Array | O(n) |O(1)|
+|485|Max Consecutive Ones|Array| O(n) |O(1)|
